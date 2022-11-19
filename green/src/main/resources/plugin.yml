@@ -1,0 +1,10 @@
+name: Green
+version: '${project.version}'
+main: com.greenchild.green.Green
+api-version: 1.19
+description: GreenChild's Free Alternative to Linode
+commands:
+  run:
+    description: To run a command on the minehut server
+    aliases: r
+    usage: /run
