@@ -1,0 +1,5 @@
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/bin/Debug/net6.0/publish/mmDummy
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/bin/Debug/net6.0/publish/mmDummy.dll
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/bin/Debug/net6.0/publish/mmDummy.deps.json
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/bin/Debug/net6.0/publish/mmDummy.runtimeconfig.json
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/bin/Debug/net6.0/publish/mmDummy.pdb

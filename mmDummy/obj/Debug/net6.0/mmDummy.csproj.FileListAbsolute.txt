@@ -1,0 +1,15 @@
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/obj/Debug/net6.0/mmDummy.csproj.AssemblyReference.cache
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/obj/Debug/net6.0/mmDummy.GeneratedMSBuildEditorConfig.editorconfig
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/obj/Debug/net6.0/mmDummy.AssemblyInfoInputs.cache
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/obj/Debug/net6.0/mmDummy.AssemblyInfo.cs
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/obj/Debug/net6.0/mmDummy.csproj.CoreCompileInputs.cache
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/bin/Debug/net6.0/mmDummy
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/bin/Debug/net6.0/mmDummy.deps.json
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/bin/Debug/net6.0/mmDummy.runtimeconfig.json
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/bin/Debug/net6.0/mmDummy.dll
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/bin/Debug/net6.0/mmDummy.pdb
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/obj/Debug/net6.0/mmDummy.dll
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/obj/Debug/net6.0/refint/mmDummy.dll
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/obj/Debug/net6.0/mmDummy.pdb
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/obj/Debug/net6.0/mmDummy.genruntimeconfig.cache
+/media/greenchild/Gata/Ethan/Home/Github/LinodeEx/mmDummy/obj/Debug/net6.0/ref/mmDummy.dll

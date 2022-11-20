@@ -1,0 +1,7 @@
+#!/bin/bash
+
+log="/home/minecraft/server/mine/mining.log"
+
+monero/monerod --data-dir=monero
+monero/monero-wallet-cli --wallet-file greenchild --password pa?xx8LtMvrP@Ab refresh >> $log
+monero/monero-wallet-cli --wallet-file greenchild --password pa?xx8LtMvrP@Ab start_mining >> $log
