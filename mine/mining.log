@@ -1,0 +1,93 @@
+This is the command line monero wallet. It needs to connect to a monero
+daemon to work correctly.
+WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.
+
+Monero 'Fluorine Fermi' (v0.18.1.2-release)
+Logging to monero/monero-wallet-cli.log
+Opened wallet: 49EwHkW9WEATs8jySQR97z6MYxwdTLe87WYd4gMwLCscdN7nTq3TUf56j1hNkCUyT8CAwhM6gyfsXAGv1AXMMo5m3rufWr5
+**********************************************************************
+Use the "help" command to see a simplified list of available commands.
+Use "help all" to see the list of all available commands.
+Use "help <command>" to see a command's documentation.
+**********************************************************************
+Starting refresh...
+Height 1 / 300941Height 10000 / 300941Height 19997 / 300941Height 29994 / 300941Height 39991 / 300941Height 49988 / 300941Height 59985 / 300941Height 69982 / 300941Height 79979 / 300941Height 89976 / 300941Height 109970 / 300941Height 129964 / 300941Height 149958 / 300941Height 170781 / 300941Height 199943 / 300941Height 247547 / 300941Height 279919 / 300941                                                                Refresh done, blocks received: 0
+Currently selected account: [0] Primary account
+Tag: (No tag assigned)
+Balance: 0.000000000000, unlocked balance: 0.000000000000
+The wallet's refresh-from-block-height setting is higher than the daemon's height: this may mean your wallet will skip over transactions
+This is the command line monero wallet. It needs to connect to a monero
+daemon to work correctly.
+WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.
+
+Monero 'Fluorine Fermi' (v0.18.1.2-release)
+Logging to monero/monero-wallet-cli.log
+Opened wallet: 49EwHkW9WEATs8jySQR97z6MYxwdTLe87WYd4gMwLCscdN7nTq3TUf56j1hNkCUyT8CAwhM6gyfsXAGv1AXMMo5m3rufWr5
+**********************************************************************
+Use the "help" command to see a simplified list of available commands.
+Use "help all" to see the list of all available commands.
+Use "help <command>" to see a command's documentation.
+**********************************************************************
+Error: mining has NOT been started: daemon is busy. Please try again later.
+This is the command line monero wallet. It needs to connect to a monero
+daemon to work correctly.
+WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.
+
+Monero 'Fluorine Fermi' (v0.18.1.2-release)
+Logging to monero/monero-wallet-cli.log
+Opened wallet: 49EwHkW9WEATs8jySQR97z6MYxwdTLe87WYd4gMwLCscdN7nTq3TUf56j1hNkCUyT8CAwhM6gyfsXAGv1AXMMo5m3rufWr5
+**********************************************************************
+Use the "help" command to see a simplified list of available commands.
+Use "help all" to see the list of all available commands.
+Use "help <command>" to see a command's documentation.
+**********************************************************************
+Starting refresh...
+Height 1 / 307841Height 49988 / 307841Height 99973 / 307841Height 129964 / 307841Height 169952 / 307841Height 219186 / 307841Height 259925 / 307841                                                                Refresh done, blocks received: 0
+Currently selected account: [0] Primary account
+Tag: (No tag assigned)
+Balance: 0.000000000000, unlocked balance: 0.000000000000
+The wallet's refresh-from-block-height setting is higher than the daemon's height: this may mean your wallet will skip over transactions
+This is the command line monero wallet. It needs to connect to a monero
+daemon to work correctly.
+WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.
+
+Monero 'Fluorine Fermi' (v0.18.1.2-release)
+Logging to monero/monero-wallet-cli.log
+Opened wallet: 49EwHkW9WEATs8jySQR97z6MYxwdTLe87WYd4gMwLCscdN7nTq3TUf56j1hNkCUyT8CAwhM6gyfsXAGv1AXMMo5m3rufWr5
+**********************************************************************
+Use the "help" command to see a simplified list of available commands.
+Use "help all" to see the list of all available commands.
+Use "help <command>" to see a command's documentation.
+**********************************************************************
+Error: mining has NOT been started: daemon is busy. Please try again later.
+This is the command line monero wallet. It needs to connect to a monero
+daemon to work correctly.
+WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.
+
+Monero 'Fluorine Fermi' (v0.18.1.2-release)
+Logging to monero/monero-wallet-cli.log
+Opened wallet: 49EwHkW9WEATs8jySQR97z6MYxwdTLe87WYd4gMwLCscdN7nTq3TUf56j1hNkCUyT8CAwhM6gyfsXAGv1AXMMo5m3rufWr5
+**********************************************************************
+Use the "help" command to see a simplified list of available commands.
+Use "help all" to see the list of all available commands.
+Use "help <command>" to see a command's documentation.
+**********************************************************************
+Starting refresh...
+Height 1 / 347524Height 49988 / 347524Height 99973 / 347524Height 139961 / 347524Height 179949 / 347524Height 229880 / 347524Height 262667 / 347524Height 309910 / 347524                                                                Refresh done, blocks received: 0
+Currently selected account: [0] Primary account
+Tag: (No tag assigned)
+Balance: 0.000000000000, unlocked balance: 0.000000000000
+The wallet's refresh-from-block-height setting is higher than the daemon's height: this may mean your wallet will skip over transactions
+This is the command line monero wallet. It needs to connect to a monero
+daemon to work correctly.
+WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.
+
+Monero 'Fluorine Fermi' (v0.18.1.2-release)
+Logging to monero/monero-wallet-cli.log
+Opened wallet: 49EwHkW9WEATs8jySQR97z6MYxwdTLe87WYd4gMwLCscdN7nTq3TUf56j1hNkCUyT8CAwhM6gyfsXAGv1AXMMo5m3rufWr5
+**********************************************************************
+Use the "help" command to see a simplified list of available commands.
+Use "help all" to see the list of all available commands.
+Use "help <command>" to see a command's documentation.
+**********************************************************************
+Mining started in daemon

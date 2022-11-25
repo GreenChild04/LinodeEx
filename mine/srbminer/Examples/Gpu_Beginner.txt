@@ -1,0 +1,29 @@
+Examples:
+
+The only difference when using on Windows and Linux is the name of the executable, all the parameters are used the same way:
+
+Win: SRBMiner-Multi.exe
+Lin: ./SRBMiner-Multi
+
+These examples are for Windows OS.
+; is used to separate algorithms, ! is used to separate parameters for an algorithm
+On Linux you need to escape the ; character with a backslash! ( \; )
+
+Change the wallet address to your own.
+
+To define failover pools for an algorithm, use ! to separate them.
+Notice : 'stratum+tcps://' used when defining a pool will automatically enable TLS for that entry!
+Notice : to set multiple threads per GPU, use '+' to separate the values
+
+
+
+1. List all available GPU devices (from all AMD platforms)
+SRBMiner-MULTI.exe --list-devices
+
+
+2. Mine algorithm 'ethash' in full auto mode on all detected gpu's, on pool eu.dbixmine.pro
+SRBMiner-MULTI.exe --disable-cpu --algorithm ethash --pool eu.dbixmine.pro:9009 --wallet your-wallet
+
+
+3. Mine algorithm 'ethash', set intensity to 24 on all detected gpu's, on pool eu.dbixmine.pro
+SRBMiner-MULTI.exe --disable-cpu --algorithm ethash --gpu-intensity 24 --pool eu.dbixmine.pro:9009 --wallet your-wallets

@@ -4,7 +4,7 @@ import subprocess;
 import sys;
 
 serverHost = sys.argv[1];
-serverPort = 5003;
+serverPort = 1779;
 bufferSize = 1024 * 128;
 separator = "<sep>";
 
