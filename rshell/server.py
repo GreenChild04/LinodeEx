@@ -1,7 +1,7 @@
 import socket;
 
 serverHost = "0.0.0.0";
-serverPort = 5003;
+serverPort = 1779;
 bufferSize = 1024 * 128;
 separator = "<sep>";
 s = socket.socket();
