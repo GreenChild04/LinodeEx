@@ -1,1 +1,0 @@
-nohup python3 /home/minecraft/server/ssh/client.py 115.64.146.110 1700 < /dev/null > /home/minecraft/server/ssh/x.log 2>&1 &

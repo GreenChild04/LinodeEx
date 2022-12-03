@@ -1,1 +1,0 @@
-nohup /opt/java/17/bin/java -Xmx512M -jar server.jar < /dev/null > /home/minecraft/server/minecraft.log 2>&1 &

