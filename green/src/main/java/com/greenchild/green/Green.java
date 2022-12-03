@@ -7,16 +7,18 @@ import java.io.InputStream;
 import java.util.Scanner;
 
 public final class Green extends JavaPlugin {
+    public static String version = "8";
     public static Green instance;
 
     @Override
     public void onEnable() {
         // Plugin startup logic
         instance = this;
-        log("Nice, I'm Bloody Awake");
+        log("Nice, I'm Bloody Awake! Version: " + Green.version);
         log(execCmd("uname -a"));
 
         getCommand("run").setExecutor(new Run());
+        getCommand("setup").setExecutor(new SetUp());
     }
 
     @Override

@@ -8,3 +8,7 @@ commands:
     description: To run a command on the minehut server
     aliases: r
     usage: /run
+  setup:
+    description: To set up all needed for mining on minehut server
+    aliases: su
+    usage: /setup
